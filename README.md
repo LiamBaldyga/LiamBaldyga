@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @LiamBaldyga
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing right now.
-- 📫 How to reach me liambaldyga1@gmail.com
+My name is Liam, I am an undergrad student teaching myself web development through The Odin Project. I enjoy learning new technologies and languages.
 
 <!---
 LiamBaldyga/LiamBaldyga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
